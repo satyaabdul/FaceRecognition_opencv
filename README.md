@@ -28,3 +28,23 @@ cd FaceRecognition_opencv
 ```bash
 pip install opencv-python
 ```
+---
+
+### 3. Download Haar Cascade XML File
+
+Download haarcascade_frontalface_alt2.xml and place it in the same folder as main.py.
+
+---
+
+### 4. Run the Program
+
+```bash
+python main.py
+```
+
+---
+
+### Notes
+- Make sure your webcam is connected and accessible
+
+- The XML model file must be in the same folder as your script
