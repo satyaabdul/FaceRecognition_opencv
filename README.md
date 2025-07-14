@@ -42,6 +42,10 @@ Download haarcascade_frontalface_alt2.xml and place it in the same folder as mai
 python main.py
 ```
 
+Press q to quit the webcam window.
+
+
+
 ---
 
 ### Notes
