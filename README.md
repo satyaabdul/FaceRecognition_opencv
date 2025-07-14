@@ -19,6 +19,7 @@ This project is a simple implementation of **real-time face detection** using **
 ```bash
 git clone https://github.com/satyaabdul/FaceRecognition_opencv.git
 cd FaceRecognition_opencv
+```
 
 ---
 
@@ -26,3 +27,4 @@ cd FaceRecognition_opencv
 
 ```bash
 pip install opencv-python
+```
